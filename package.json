@@ -1,0 +1,24 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "simple web scraping scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabh1403/scraping.git"
+  },
+  "author": "Rishabh Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rishabh1403/scraping/issues"
+  },
+  "homepage": "https://github.com/rishabh1403/scraping#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
