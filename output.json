@@ -1,0 +1,363 @@
+[
+    {
+        "title": "Top Things to do",
+        "details": [
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/08/10/a7/05/basilica-de-la-sagrada.jpg",
+                "name": "Basilica of the Sagrada Familia",
+                "review": "1,16,558 Reviews ",
+                "details": "Architectural Buildings, Churches & Cathedrals"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/0e/62/cb/34/casa-batllo-gaudi-barcelona.jpg",
+                "name": "Casa Batllo",
+                "review": "41,701 Reviews ",
+                "details": "Architectural Buildings, Historic Sites, Monuments & Statues, Speciality Museums, Points of Interest & Landmarks"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/08/24/96/fa/barrio-gotico.jpg",
+                "name": "Gothic Quarter (Barri Gotic)",
+                "review": "29,629 Reviews ",
+                "details": "Historic Walking Areas, Neighbourhoods"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/07/95/43/82/matteo-vecchi-10.jpg",
+                "name": "Palau de la Musica Orfeo Catala",
+                "review": "14,158 Reviews ",
+                "details": "Architectural Buildings, Theatres"
+            }
+        ]
+    },
+    {
+        "title": "Selfie Spots",
+        "details": [
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/daodao/photo-s/0e/80/c8/ee/museu-de-la-catedral.jpg",
+                "name": "Museu de la Catedral",
+                "review": "209 Reviews ",
+                "details": "Speciality Museums"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/04/63/60/86/muhba-museu-d-historia.jpg",
+                "name": "Park Guell",
+                "review": "55,911 Reviews ",
+                "details": "Parks, Points of Interest & Landmarks"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/08/7c/2c/0a/palau-guell.jpg",
+                "name": "Palau Guell",
+                "review": "8,273 Reviews ",
+                "details": "Architectural Buildings, Historic Sites"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/01/50/8a/b4/becelona-la-ribera.jpg",
+                "name": "Barri de La Ribera",
+                "review": "75 Reviews ",
+                "details": "Historic Walking Areas, Neighbourhoods"
+            }
+        ]
+    },
+    {
+        "title": "Featured Tours and Tickets",
+        "details": [
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            },
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            },
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            },
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            }
+        ]
+    },
+    {
+        "title": "Museums",
+        "details": [
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/0e/62/cb/34/casa-batllo-gaudi-barcelona.jpg",
+                "name": "Casa Batllo",
+                "review": "41,701 Reviews ",
+                "details": "Architectural Buildings, Historic Sites, Monuments & Statues, Speciality Museums, Points of Interest & Landmarks"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/06/f8/2b/60/la-pedrera-casa-mila.jpg",
+                "name": "La Pedrera",
+                "review": "16,658 Reviews ",
+                "details": "Architectural Buildings, Monuments & Statues, Speciality Museums, Points of Interest & Landmarks"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/02/5c/02/8a/outside-of-museum.jpg",
+                "name": "Museu Nacional d'Art de Catalunya - MNAC",
+                "review": "5,712 Reviews ",
+                "details": "Speciality Museums"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-s/02/2f/9b/b2/science-museum-museu.jpg",
+                "name": "CosmoCaixa Barcelona",
+                "review": "3,340 Reviews ",
+                "details": "Speciality Museums"
+            }
+        ]
+    },
+    {
+        "title": "Monuments & Statues",
+        "details": [
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/0e/62/cb/34/casa-batllo-gaudi-barcelona.jpg",
+                "name": "Casa Batllo",
+                "review": "41,701 Reviews ",
+                "details": "Architectural Buildings, Historic Sites, Monuments & Statues, Speciality Museums, Points of Interest & Landmarks"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/06/f8/2b/60/la-pedrera-casa-mila.jpg",
+                "name": "La Pedrera",
+                "review": "16,658 Reviews ",
+                "details": "Architectural Buildings, Monuments & Statues, Speciality Museums, Points of Interest & Landmarks"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/ec/6e/f8/very-worth-a-look.jpg",
+                "name": "Cascada Monumental",
+                "review": "273 Reviews ",
+                "details": "Fountains, Monuments & Statues"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/02/23/1b/45/cascada.jpg",
+                "name": "El Desconsol",
+                "review": "61 Reviews ",
+                "details": "Monuments & Statues"
+            }
+        ]
+    },
+    {
+        "title": "Nature & Parks",
+        "details": [
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/04/63/60/86/muhba-museu-d-historia.jpg",
+                "name": "Park Guell",
+                "review": "55,911 Reviews ",
+                "details": "Parks, Points of Interest & Landmarks"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-s/00/16/2d/31/parc-de-la-ciutadella.jpg",
+                "name": "Parc de la Ciutadella",
+                "review": "5,769 Reviews ",
+                "details": "Parks"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/05/87/84/f4/port-of-barcelona.jpg",
+                "name": "El Puerto de Barcelona",
+                "review": "1,670 Reviews ",
+                "details": "Marinas"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/02/7c/06/7e/filename-dsc04170-jpg.jpg",
+                "name": "Parque del Laberinto de Horta",
+                "review": "1,145 Reviews ",
+                "details": "Parks"
+            }
+        ]
+    },
+    {
+        "title": "Food, Wine & Nightlife",
+        "details": [
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            },
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            },
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            },
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            }
+        ]
+    },
+    {
+        "title": "Points of Interest & Landmarks",
+        "details": [
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/0e/62/cb/34/casa-batllo-gaudi-barcelona.jpg",
+                "name": "Casa Batllo",
+                "review": "41,701 Reviews ",
+                "details": "Architectural Buildings, Historic Sites, Monuments & Statues, Speciality Museums, Points of Interest & Landmarks"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/03/de/45/73/magic-fountain.jpg",
+                "name": "Magic Fountain (Font Magica)",
+                "review": "22,281 Reviews ",
+                "details": "Fountains, Points of Interest & Landmarks"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/06/f8/2b/60/la-pedrera-casa-mila.jpg",
+                "name": "La Pedrera",
+                "review": "16,658 Reviews ",
+                "details": "Architectural Buildings, Monuments & Statues, Speciality Museums, Points of Interest & Landmarks"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/04/63/60/86/muhba-museu-d-historia.jpg",
+                "name": "Park Guell",
+                "review": "55,911 Reviews ",
+                "details": "Parks, Points of Interest & Landmarks"
+            }
+        ]
+    },
+    {
+        "title": "Concerts & Shows",
+        "details": [
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/07/95/43/82/matteo-vecchi-10.jpg",
+                "name": "Palau de la Musica Orfeo Catala",
+                "review": "14,158 Reviews ",
+                "details": "Architectural Buildings, Theatres"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/0d/fe/d7/99/espectaculo-flamenco.jpg",
+                "name": "Palau Dalmases",
+                "review": "543 Reviews ",
+                "details": "Castles, Operas"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/c9/01/06/teatre-del-liceu.jpg",
+                "name": "Gran Teatre del Liceu",
+                "review": "538 Reviews ",
+                "details": "Operas, Theatres"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/07/6e/a4/f0/cafe-teatre-llantiol.jpg",
+                "name": "Cafe Teatre Llantiol",
+                "review": "41 Reviews ",
+                "details": "Theatres"
+            }
+        ]
+    },
+    {
+        "title": "Cruises, Sailing & Water Tours",
+        "details": [
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            },
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            },
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            },
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            }
+        ]
+    },
+    {
+        "title": "Architectural Buildings",
+        "details": [
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/08/10/a7/05/basilica-de-la-sagrada.jpg",
+                "name": "Basilica of the Sagrada Familia",
+                "review": "1,16,558 Reviews ",
+                "details": "Architectural Buildings, Churches & Cathedrals"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/0e/62/cb/34/casa-batllo-gaudi-barcelona.jpg",
+                "name": "Casa Batllo",
+                "review": "41,701 Reviews ",
+                "details": "Architectural Buildings, Historic Sites, Monuments & Statues, Speciality Museums, Points of Interest & Landmarks"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/07/95/43/82/matteo-vecchi-10.jpg",
+                "name": "Palau de la Musica Orfeo Catala",
+                "review": "14,158 Reviews ",
+                "details": "Architectural Buildings, Theatres"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/06/42/09/62/basilica-de-santa-maria.jpg",
+                "name": "The Basilica of Santa Maria del Mar",
+                "review": "10,174 Reviews ",
+                "details": "Architectural Buildings, Sacred & Religious Sites, Historic Sites, Churches & Cathedrals"
+            }
+        ]
+    },
+    {
+        "title": "Kid Friendly",
+        "details": [
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            },
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            },
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            },
+            {
+                "name": "",
+                "review": "",
+                "details": ""
+            }
+        ]
+    },
+    {
+        "title": "Churches & Cathedrals",
+        "details": [
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/08/10/a7/05/basilica-de-la-sagrada.jpg",
+                "name": "Basilica of the Sagrada Familia",
+                "review": "1,16,558 Reviews ",
+                "details": "Architectural Buildings, Churches & Cathedrals"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/06/42/09/62/basilica-de-santa-maria.jpg",
+                "name": "The Basilica of Santa Maria del Mar",
+                "review": "10,174 Reviews ",
+                "details": "Architectural Buildings, Sacred & Religious Sites, Historic Sites, Churches & Cathedrals"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/02/64/ea/c0/cloisters-and-patio-of.jpg",
+                "name": "Barcelona Cathedral",
+                "review": "6,964 Reviews ",
+                "details": "Churches & Cathedrals"
+            },
+            {
+                "image": "https://media-cdn.tripadvisor.com/media/photo-f/0f/24/22/4b/templo-del-sagrado-corazon.jpg",
+                "name": "Templo del Sagrado Corazon de Jesus",
+                "review": "1,210 Reviews ",
+                "details": "Churches & Cathedrals"
+            }
+        ]
+    }
+]
